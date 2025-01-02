@@ -1,0 +1,8 @@
+LAB 1: Demonstration on S3 bucket to host static website
+
+S3 (Simple storage service)
+
+Free Tier Limit : 5GB
+
+Naming S3 bucket : s3bucket31003
+
